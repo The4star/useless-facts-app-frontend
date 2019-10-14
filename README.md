@@ -10,7 +10,7 @@ https://github.com/The4Star
 
 Back-end is hosted on Heroku, Front end is hosted on Netlify
 
-Deployed Site: coming soon
+Deployed Site: https://useless-facts-app.netlify.com
 
 ## Purpose 
 
