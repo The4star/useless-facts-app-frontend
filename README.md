@@ -1,4 +1,4 @@
-## Useless Facts Generator Complete with Authorisation
+## Useless Facts Generator Complete with Authorisation - Front End
 
 <!-- ![usa brewfinder gif](./img/usa_brew_finder.gif "Demo gif") -->
 
@@ -7,6 +7,8 @@
 https://github.com/The4Star 
 |-----------|
 | Clinton Forster | 
+
+Back-end is hosted on Heroku, Front end is hosted on Netlify
 
 Deployed Site: coming soon
 
