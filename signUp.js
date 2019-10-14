@@ -11,7 +11,6 @@ const signUp = async (e) => {
     try {
         const username = signUpForm.querySelector('[name=username]').value;
         const password = signUpForm.querySelector('[name=password]').value;
-        console.log(`${username} ${password}`);
         const response = await axios.post("https://useless-facts-app.herokuapp.com/auth/registration", {username, password});
         const token = response.data;
         if(!token) {
